@@ -25,3 +25,4 @@ def is_isomorphic(s, t):
         map_t_to_s[char_t] = char_s
 
     return True
+5) 
